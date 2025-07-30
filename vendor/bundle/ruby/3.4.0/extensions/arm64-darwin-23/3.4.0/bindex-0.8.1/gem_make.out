@@ -1,0 +1,18 @@
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/laurenmok/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-znbxs sitelibdir\=./.gem.20250730-46694-znbxs clean
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-znbxs sitelibdir\=./.gem.20250730-46694-znbxs
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-znbxs sitelibdir\=./.gem.20250730-46694-znbxs install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20250730-46694-znbxs/skiptrace/internal
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-znbxs sitelibdir\=./.gem.20250730-46694-znbxs clean

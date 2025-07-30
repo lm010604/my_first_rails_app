@@ -1,0 +1,18 @@
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/laurenmok/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-67xbef sitelibdir\=./.gem.20250730-46694-67xbef clean
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-67xbef sitelibdir\=./.gem.20250730-46694-67xbef
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-67xbef sitelibdir\=./.gem.20250730-46694-67xbef install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250730-46694-67xbef/racc
+
+current directory: /Users/laurenmok/Desktop/Projects/my_first_rails_app/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250730-46694-67xbef sitelibdir\=./.gem.20250730-46694-67xbef clean
